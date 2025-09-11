@@ -3,7 +3,7 @@
 Hi 👋,  
 This is my **personal portfolio website** created using HTML, CSS and JavaScript.  
 It showcases my **skills, projects, and contact details**.
-👉 [View Portfolio](https://bhavana.github.io/my-portfolio/)
+👉 [bhavana portfolio.html](https://bhavana.github.io/my-portfolio/)
 
 - Responsive design 📱
 - About Me section 🙋‍♀️
