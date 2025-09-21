@@ -4,7 +4,7 @@ Hi 👋,
 This is my **personal portfolio website** created using HTML, CSS and JavaScript.  
 It showcases my **skills, projects, and contact details**.
 👉 [index.html]              
-(https://bhavanariyan.github.io/bhavana portfolio/)
+(https://bhavanariyan.github.io/index.html/)
 - Responsive design 📱
 - About Me section 🙋‍♀️
 - Projects showcase 💻
