@@ -1,7 +1,7 @@
 # My Portfolio
 
 Hi 👋,  
-This is my **personal portfolio website** created using HTML, CSS and JavaScript.  
+This is my **personal portfolio website** created using HTML.  
 It showcases my **skills, projects, and contact details**.
 👉 [index.html]              
 (https://bhavanariyan.github.io/index.html/)
